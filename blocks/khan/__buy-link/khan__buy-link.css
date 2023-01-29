@@ -1,13 +1,14 @@
-.header__link {
-  line-height: 25px;
-  font-size: 18px;
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
-  opacity: 1;
   transition: opacity 1s ease-in;
 }
 
-.header__link:hover {
+.khan__buy-link:hover {
   opacity: 0.5;
 }
+
+

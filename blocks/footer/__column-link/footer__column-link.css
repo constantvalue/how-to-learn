@@ -3,4 +3,10 @@
   align-items: center;
   color: white;
   text-decoration: none;
+  transition: opacity 1s ease-in;
 }
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
+
